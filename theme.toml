@@ -1,0 +1,12 @@
+# theme.toml template for a Hugo theme
+
+name = "Candi"
+license = "MIT Licence"
+licenselink = ""
+description = "Candi,  a framework and library for Membangun Candi project in Golang"
+tags = [""]
+features = ["responsive","search autocomplete", "color scheme"]
+min_version = "0.64.0"
+
+[author]
+  name = "Candi"
