@@ -3,22 +3,20 @@
 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.64.0" alt="Contributors">
-    <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.64.0&color=f00&logo=hugo" />
+    <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.95.0&color=f00&logo=hugo" />
   </a>
 
   <a href="https://github.com/themefisher/dot-hugo/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/themefisher/dot-hugo" alt="license"></a>
+    <img src="https://img.shields.io/github/license/triadmoko/docs-candi" alt="license"></a>
 
-  <img src="https://img.shields.io/github/languages/code-size/themefisher/dot-hugo" alt="code size">
+  <a href="https://github.com/themefisher/dot-hugo/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/stars/triadmoko/docs-candi" alt="stars"></a>
 
-  <a href="https://github.com/themefisher/dot-hugo/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/themefisher/dot-hugo" alt="contributors"></a>
+  <img src="https://img.shields.io/github/languages/code-size/triadmoko/docs-candi" alt="code size">
 
-  <a href="https://twitter.com/intent/follow?screen_name=gethugothemes">
-    <img src="https://img.shields.io/twitter/follow/gethugothemes?style=social&logo=twitter"
-      alt="follow on Twitter"></a>
+  <a href="https://github.com/triadmoko/docs-candi/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/triadmoko/docs-candi" alt="contributors"></a>
 </p>
-
 ---
 
 <p align="center">
