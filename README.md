@@ -44,7 +44,7 @@
 git clone git@github.com:themefisher/dot-hugo.git
 
 # cd in the project directory
-$ cd dot-hugo/exampleSite/
+$ cd docs/candi/
 
 # Start local dev server
 $ hugo server --themesDir ../..
