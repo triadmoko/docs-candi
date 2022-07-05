@@ -41,7 +41,7 @@
 
 ```bash
 # clone the repository
-git clone git@github.com:themefisher/dot-hugo.git
+git clone https://github.com/triadmoko/docs-candi.git
 
 # cd in the project directory
 $ cd docs/candi/
